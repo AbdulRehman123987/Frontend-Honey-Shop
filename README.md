@@ -1,1 +1,1 @@
-#This is a frontend project or static website for honey shop website
+# This is a frontend project or static website for honey shop website
