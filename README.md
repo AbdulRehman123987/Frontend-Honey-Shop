@@ -2,7 +2,7 @@
 
 A beautifully designed, responsive website for a **Honey Shop**, crafted using **HTML, CSS, and JavaScript**. This is a frontend-only project focused on delivering a warm, nature-inspired user experience for honey product lovers.
 
-![Screenshot](./assets/honey-shop-preview.png) <!-- Replace with your actual image path -->
+![Screenshot](./Assets/hero/HoneyShop.png) <!-- Replace with your actual image path -->
 
 ---
 
